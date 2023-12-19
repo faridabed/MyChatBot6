@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from functions import *
 from functions2 import *
 
@@ -217,7 +217,7 @@ while True:
         break
     else:
         print("Option invalide. Veuillez choisir une option valide.")
-=======
+
 from functions import *
 from functions2 import *
 
@@ -436,4 +436,4 @@ while True:
         break
     else:
         print("Option invalide. Veuillez choisir une option valide.")
->>>>>>> 753a1ba34dd91d508bc2c9a4e114abc941ac4dd7
+
