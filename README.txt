@@ -1,19 +1,17 @@
-Projet My Chat Bot 
+ Projet My Chat Bot
 
+Réalisé par :
+- Farida Bedewy
+- Dissi Gam
+- Ines Seridj
 
-Ce projet a été faits par :
+Lien Git :  https://github.com/faridabed/MyChatBot6.git
 
-Farida BEDEWY
-Dissi GAM
-Ines SERIDJ
+Fichiers exécutables :
+- main.py
+- functions.py
+- functions2.py
 
-Voici le lien direct vers le dépôt Git de notre projet: https://github.com/faridabed/MyChatBot6.git
-
-
-FICHIER A EXCECUTER :
-main.py , functions.py et functions2.py
-
-
-Afin d'acceder au programme 2 solutions : 
-- Utilisation du fichier 
-- Aller sur le lien Git et télécharger au préalable le dossier venv avec les dépendance 
+Accès au programme :
+- Exécuter localement les fichiers mentionnés.
+- Visiter le lien Git pour télécharger le projet, y compris le dossier `venv` contenant les dépendances nécessaires.
